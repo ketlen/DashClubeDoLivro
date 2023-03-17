@@ -5,7 +5,7 @@ Aprendizado de diferentes visuais no Power BI.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Dashboards Clube do Livro**
-| :label: Tecnologias | html, power bi (tecnologias utilizadas)
+| :label: Tecnologias | power bi (tecnologias utilizadas)
 | :rocket: URL         | https://app.powerbi.com/view?r=eyJrIjoiYzc0N2Q2MDItN2QzOC00OGQzLWE4YmUtYmIyZjM3Zjk4NzA4IiwidCI6ImVjYjk4ODI1LWU2ZTQtNDBmMC1hYThhLTA5MjVjYjUyMDIyMSJ9
 | :fire: Curso     | https://cursos.alura.com.br/course/power-bi-visualizando-dados
 
